@@ -6,7 +6,7 @@ int main(){
   int *p = &i;
 
   printf("Address: %x\n",&i);
-  printf("%x\n",p);
+  //printf("%x\n",p);
 
 
   return 0;
